@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jack Orwa
-- 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning Backend programming
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me: email: jackokebe64@gmail.com
-- 😄 Pronouns: I'm a male. Hate pronouns wokeness.
+- 👀 I’m interested in Computer Programming.
+- 🌱 I’m currently learning system programming.
+- 💞️ I’m looking to collaborate on embedded sytems.
+- 📫 How to reach me: email: jackokebe64@gmail.com.
+- 😄 Pronouns: He.
 
 
 <!---
