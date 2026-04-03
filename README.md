@@ -2,6 +2,7 @@
 - 👋 Hi, I’m Jack Orwa
 - 🌱 I’m currently learning system programming.
 - 💞️ I’m looking to collaborate on embedded sytems.
+- 📚 Graduating on 18th Dec 2026,Computer Science.
 - 📫 How to reach me: email: jackokebe64@gmail.com.
 
 <!---
